@@ -90,9 +90,35 @@ def testWeekday():
         print(Weekday.Tue.value)
         print(Weekday(1))
 
+#使用type创建class
+def fn(self, name='beauty'):
+    print('Hello, %s' %  name)
+
+def testTypeCreateClass():
+    Hello = type('Hello', (object,), dict(hello=fn))
+    h = Hello()
+    h.hello()
+
+#使用metaclass
+class ListMetaclass(type):
+    def __new__(cls, name, bases, attrs):
+        attrs['add'] = lambda self, value: self.append(value)
+        return type.__new__(cls, name, bases, attrs)
+
+class MyList(list, metaclass=ListMetaclass):
+    pass
+
+def testMetaclass():
+    l = MyList()
+    l.add(2)
+    print('aaaaa')
+    print(l)
+
 if __name__ == '__main__':
     testIter()
     testChain()
     testCallable()
     testMonth()
     testWeekday()
+    testTypeCreateClass()
+    testMetaclass()
