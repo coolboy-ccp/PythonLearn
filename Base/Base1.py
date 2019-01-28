@@ -33,6 +33,15 @@ def testListComprehensions():
     lstr = ['Ha', 'HHLK', 'KKF1']
     print([l.lower() for l in lstr])
 
+def mutiTable():
+    [print('%s * %s = %s ' %(x, y, x * y), end='\n' if x == y else '\t') for x in range(1, 10) for y in range(1, x + 1)]
+
+def mutiTbale1():
+    for i in range(1, 10):
+        for j in range(1, i + 1):
+            print(r"%s * %s = %s " % (i, j, i * j), end='\t')
+        print(" ")
+
 #生成器
 def testGenerator():
     gs = (x * x for x in range(9))
@@ -57,7 +66,9 @@ def fib(max):
         n = n + 1
 
 if __name__ == '__main__':
-    testSlice()
-    testIteration()
-    testListComprehensions()
-    testGenerator()
+    #mutiTbale1()
+    mutiTable()
+    #testSlice()
+    #testIteration()
+    #testListComprehensions()
+    #testGenerator()

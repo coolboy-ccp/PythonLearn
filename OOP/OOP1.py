@@ -78,8 +78,8 @@ def testAttr():
 
 
 if __name__ == '__main__':
-    tStu1()
-    tStu2()
-    testType()
-    testAttr()
+   # tStu1()
+   # tStu2()
+    #testType()
+    #testAttr()
     pass

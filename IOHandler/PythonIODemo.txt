@@ -1,0 +1,7 @@
+Just for python study io demo.这是一个pyhton IO操作的demo___1。
+Just for python study io demo.这是一个pyhton IO操作的demo___2。
+Just for python study io demo.这是一个pyhton IO操作的demo___3。
+Just for python study io demo.这是一个pyhton IO操作的demo___4。
+
+
+我写了一个字符串进来了
