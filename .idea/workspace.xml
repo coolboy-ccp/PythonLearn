@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2db82678-8d5a-4a26-8ef2-85c2d3172351" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/Base/Regular.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ProcessingAndThread/DistributedTask.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ProcessingAndThread/MultiProcessing.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ProcessingAndThread/MultiThread.py" afterDir="false" />
+=======
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,17 +18,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+<<<<<<< Updated upstream
     <SUITE FILE_PATH="coverage/PythonLearn$Base1.coverage" NAME="Base1 Coverage Results" MODIFIED="1548494586531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
     <SUITE FILE_PATH="coverage/PythonLearn$DistributedTask.coverage" NAME="DistributedTask Coverage Results" MODIFIED="1548750788985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProcessingAndThread" />
     <SUITE FILE_PATH="coverage/PythonLearn$ORMDemo.coverage" NAME="ORMDemo Coverage Results" MODIFIED="1548236970201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/PythonLearn$OOP2_1.coverage" NAME="OOP2.1 Coverage Results" MODIFIED="1548235324859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+=======
+>>>>>>> Stashed changes
     <SUITE FILE_PATH="coverage/PythonLearn$IO1.coverage" NAME="IO1 Coverage Results" MODIFIED="1548321539326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOHandler" />
+    <SUITE FILE_PATH="coverage/PythonLearn$ORMDemo.coverage" NAME="ORMDemo Coverage Results" MODIFIED="1548236970201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/PythonLearn$Base.coverage" NAME="Base Coverage Results" MODIFIED="1548128885082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
-    <SUITE FILE_PATH="coverage/PythonLearn$IO3.coverage" NAME="IO3 Coverage Results" MODIFIED="1548658779829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOHandler" />
-    <SUITE FILE_PATH="coverage/PythonLearn$Error2.coverage" NAME="Error2 Coverage Results" MODIFIED="1548299690366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ErrorHandler" />
-    <SUITE FILE_PATH="coverage/PythonLearn$OOP1.coverage" NAME="OOP1 Coverage Results" MODIFIED="1548302239274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/PythonLearn$OOP2_1.coverage" NAME="OOP2.1 Coverage Results" MODIFIED="1548235324859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/PythonLearn$bbb.coverage" NAME="bbb Coverage Results" MODIFIED="1548128812552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearn$Base3.coverage" NAME="Base3 Coverage Results" MODIFIED="1548148239801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
+<<<<<<< Updated upstream
     <SUITE FILE_PATH="coverage/PythonLearn$Error1.coverage" NAME="Error1 Coverage Results" MODIFIED="1548296610463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ErrorHandler" />
     <SUITE FILE_PATH="coverage/PythonLearn$Base2.coverage" NAME="Base2 Coverage Results" MODIFIED="1548138945324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
     <SUITE FILE_PATH="coverage/PythonLearn$MultiProcessing.coverage" NAME="MultiProcessing Coverage Results" MODIFIED="1548667842768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProcessingAndThread" />
@@ -36,11 +42,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+=======
+    <SUITE FILE_PATH="coverage/PythonLearn$OOP2.coverage" NAME="OOP2 Coverage Results" MODIFIED="1548228204044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/PythonLearn$IO2.coverage" NAME="IO2 Coverage Results" MODIFIED="1548647359296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOHandler" />
+    <SUITE FILE_PATH="coverage/PythonLearn$Base2.coverage" NAME="Base2 Coverage Results" MODIFIED="1548138945324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
+    <SUITE FILE_PATH="coverage/PythonLearn$IO3.coverage" NAME="IO3 Coverage Results" MODIFIED="1548658779829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOHandler" />
+    <SUITE FILE_PATH="coverage/PythonLearn$Error1.coverage" NAME="Error1 Coverage Results" MODIFIED="1548296610463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ErrorHandler" />
+    <SUITE FILE_PATH="coverage/PythonLearn$Base1.coverage" NAME="Base1 Coverage Results" MODIFIED="1548494586531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
+    <SUITE FILE_PATH="coverage/PythonLearn$Error2.coverage" NAME="Error2 Coverage Results" MODIFIED="1548299690366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ErrorHandler" />
+    <SUITE FILE_PATH="coverage/PythonLearn$OOP1.coverage" NAME="OOP1 Coverage Results" MODIFIED="1548302239274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IOHandler/IO2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IOHandler/PythonPickle.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> Stashed changes
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Base/Regular.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="244">
               <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+=======
+            <state relative-caret-position="187">
+              <caret line="68" column="2" lean-forward="true" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -105,6 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,11 +174,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -294,13 +337,22 @@
       <workItem from="1548207620894" duration="18503000" />
       <workItem from="1548293867608" duration="15858000" />
       <workItem from="1548492081354" duration="2466000" />
+<<<<<<< Updated upstream
       <workItem from="1548495164775" duration="13276000" />
       <workItem from="1548727849116" duration="14636000" />
+=======
+      <workItem from="1548495164775" duration="5525000" />
+      <workItem from="1548685553875" duration="38000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="75690000" />
+=======
+    <option name="totallyTimeSpent" value="53341000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
@@ -458,6 +510,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/ProcessingAndThread/MultiProcessing1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -469,6 +522,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProcessingAndThread/MultiThread.py">
+=======
+    <entry file="file://$PROJECT_DIR$/../Library/Caches/PyCharm2018.3/python_stubs/-559385709/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/IOHandler/IO1.py">
+>>>>>>> Stashed changes
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="2" selection-end-column="28" />
@@ -498,6 +555,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/Base/Base3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -509,6 +567,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1334">
           <caret line="771" selection-start-line="771" selection-end-line="771" />
+=======
+    <entry file="file://$PROJECT_DIR$/IOHandler/IO2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOHandler/PythonPickle.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -521,8 +592,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Base/Regular.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="244">
           <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+=======
+        <state relative-caret-position="187">
+          <caret line="68" column="2" lean-forward="true" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
